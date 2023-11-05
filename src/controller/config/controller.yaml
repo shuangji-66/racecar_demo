@@ -1,0 +1,6 @@
+input_imu_topic_name: /wit/imu
+input_location_topic_name: /wit/location
+input_mag_topic_name: /wit/mag
+output_pose_topic_name: /cmd
+
+node_rate: 1   # [Herz]
